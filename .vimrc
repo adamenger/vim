@@ -13,5 +13,7 @@ colorscheme solarized
 
 
 map <C-n> :NERDTreeToggle<CR>
+map <C-c> <leader>cc<CR>
+map <C-u> <leader>cu<CR>
 
 filetype plugin indent on
