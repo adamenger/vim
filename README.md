@@ -11,3 +11,7 @@ first, clone the repo:
 symlink to ~/.vimrc
 
 ``` ➜  ~ ln -s ~/.vim/.vimrc ~/.vimrc```
+
+then run install script:
+
+``` ➜ ~/.vim/./install.sh ```
